@@ -27,8 +27,8 @@
 
 `Operating Systems`
 `Low-Level Programming`
-`Linux`
-`Networking`
+`UNIX`
+`Compiler`
 
 </td>
 
@@ -102,7 +102,7 @@
 
 <img src="https://img.shields.io/badge/Powered%20by-Gentoo%20Linux%20%26%20Hyprland-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=gentoo" />
 
-<br/><br/>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:313244,100:1e1e2e&height=120&section=footer" />
 
