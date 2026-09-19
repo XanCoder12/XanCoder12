@@ -55,7 +55,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,rtos&theme=dark" />
 
 <br/><br/>
 
