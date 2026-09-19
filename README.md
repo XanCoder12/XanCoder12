@@ -70,8 +70,7 @@
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postgres,mysql,vim,nginx&theme=dark" />
 
-<br/><br/>
-
+<br/>
 <img src="https://img.shields.io/badge/Gentoo-0b0f14?style=for-the-badge&logo=gentoo&logoColor=8b5cf6" />
 <img src="https://img.shields.io/badge/Hyprland-0b0f14?style=for-the-badge&logo=wayland&logoColor=60a5fa" />
 <img src="https://img.shields.io/badge/ESP32--C5-0b0f14?style=for-the-badge&logo=espressif&logoColor=94a3b8" />
