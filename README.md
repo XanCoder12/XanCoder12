@@ -1,80 +1,270 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--                  Ye-Shaiyoe · GitHub Profile            -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ╭──────────────────────────────────────────────────────────────╮ -->
+
+<!-- │                    YE-SHAIYOE · PROFILE                     │ -->
+
+<!-- ╰──────────────────────────────────────────────────────────────╯ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0011,40:1a0033,100:2d1b69&height=200&section=header&text=Ye-Shaiyoe&fontSize=72&fontColor=e8c3f7&fontAlignY=40&desc=イエシャイヨエ+%E2%80%A2+コード+%E2%80%A2+作る+%E2%80%A2+繰り返す&descAlignY=62&descSize=15&descColor=a89bc2&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Zen+Kaku+Gothic+New&weight=700&size=16&duration=3000&pause=1000&color=E8C3F7&center=true&vCenter=true&width=600&height=38&lines=hobbyist+dev+%2F+Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Gentoo+%E3%83%AA%E3%83%8C%E3%83%83%E3%82%AF%E3%82%B9+%7C+Hyprland+%7C+ThinkPad+T480;C+%2F+C%2B%2B+%2F+TypeScript+%2F+Rust+%2F+ESP32;%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%81%8B%E3%82%89%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%BE%E3%81%A7%E4%BD%9C%E3%82%8B;2000%2B+commits+%E2%9A%A1+%E3%81%BE%E3%81%A0%E9%80%B2%E8%A1%8C%E4%B8%AD" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,45:111827,75:1e293b,100:7c3aed&height=240&section=header&text=YE-SHAIYOE&fontSize=68&fontColor=f8fafc&fontAlignY=36&desc=SYSTEMS%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20ENGINEERING&descAlignY=60&descSize=17&descColor=94a3b8&animation=fadeIn" />
 
 <br/>
 
-[![views](https://komarev.com/ghpvc/?username=Ye-Shaiyoe&label=訪問者&color=b39ddb&style=flat-square&labelColor=1a0033)](https://github.com/Ye-Shaiyoe)&nbsp;
-[![ko-fi](https://img.shields.io/badge/支援-akromryooe-94e2d5?style=flat-square&logo=ko-fi&logoColor=white&labelColor=1a0033)](https://ko-fi.com/akromryooe)&nbsp;
-[![tiktok](https://img.shields.io/badge/TikTok-@shiyooe__28-f38ba8?style=flat-square&logo=tiktok&logoColor=white&labelColor=1a0033)](https://www.tiktok.com/@shiyooe_28)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&repeat=true&width=720&height=40&lines=building+software+from+low-level+systems+to+cloud;C+%2F+C%2B%2B+%2F+Rust+%2F+Go+%2F+TypeScript;Linux+%7C+Embedded+%7C+Web+%7C+Infrastructure;learning+by+building%2C+breaking%2C+and+rebuilding;Bandung%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" />
+
+<br/><br/>
+
+<a href="https://github.com/Ye-Shaiyoe">
+<img src="https://komarev.com/ghpvc/?username=Ye-Shaiyoe&label=PROFILE&color=7c3aed&style=flat-square&labelColor=0b0f14"/>
+</a>
+&nbsp;
+<a href="https://github.com/Ye-Shaiyoe?tab=followers">
+<img src="https://img.shields.io/github/followers/Ye-Shaiyoe?label=FOLLOWERS&style=flat-square&color=8b5cf6&labelColor=0b0f14&logo=github"/>
+</a>
+&nbsp;
+<a href="https://ko-fi.com/akromryooe">
+<img src="https://img.shields.io/badge/Support%20my%20work-0b0f14?style=flat-square&logo=ko-fi&logoColor=white&labelColor=0b0f14"/>
+</a>
 
 </div>
 
 <br/>
 
+---
+
+<div align="center">
+
+### `01 · ABOUT`
+
+</div>
+
+> **I build things to understand how they work.**
+
+I'm a hobbyist developer interested in the layers beneath modern software —
+from **C and Rust**, operating systems, Linux and embedded hardware,
+to backend systems, web applications and infrastructure.
+
+I prefer understanding systems by building them from the ground up,
+breaking them, debugging them, and rebuilding them better.
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   LOW LEVEL          SYSTEMS             APPLICATIONS       │
+│                                                             │
+│   C / C++            Linux               Go                 │
+│   Rust               OS Dev              TypeScript         │
+│   Assembly           Networking          PHP / Laravel      │
+│   Embedded           Containers          React              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
- ▸ ユーザー名    Ye-Shaiyoe
- ▸ 場所          Bandung, Indonesia 🇮🇩
- ▸ 環境          Gentoo Linux · Hyprland · ThinkPad T480
- ▸ 趣味          low-level hacking · embedded · tinkering
- ▸ 現在          building things from kernel to cloud ⚡
+
+<br/>
+
+<div align="center">
+
+### `02 · TECHNOLOGY`
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**SYSTEMS**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,zig,wasm&theme=dark" />
+
+<br/><br/>
+
+`Operating Systems`
+`Low-Level Programming`
+`Linux`
+`Networking`
+
+</td>
+
+<td align="center" width="33%">
+
+**BACKEND & WEB**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,php,laravel,nodejs,react&theme=dark" />
+
+<br/><br/>
+
+`APIs`
+`Web Applications`
+`Databases`
+`Distributed Systems`
+
+</td>
+
+<td align="center" width="33%">
+
+**HARDWARE**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+
+<br/><br/>
+
+`ESP32`
+`Microcontrollers`
+`IoT`
+`Embedded Systems`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,postgres,mysql,vim,nginx&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Gentoo-0b0f14?style=for-the-badge&logo=gentoo&logoColor=8b5cf6" />
+<img src="https://img.shields.io/badge/Hyprland-0b0f14?style=for-the-badge&logo=wayland&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/ESP32--C5-0b0f14?style=for-the-badge&logo=espressif&logoColor=94a3b8" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `03 · CURRENTLY BUILDING`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `⌁ Systems`
+
+Exploring operating-system development and low-level software.
+
+* Kernel architecture
+* Shell & command parsing
+* Memory management
+* Processes & scheduling
+* Syscalls
+* User mode
+* C / Rust interoperability
+
+</td>
+
+<td width="50%" valign="top">
+
+### `⌁ Infrastructure`
+
+Building production-oriented applications and services.
+
+* REST APIs
+* PostgreSQL
+* Docker
+* Linux servers
+* Nginx
+* Authentication
+* Security
+* Deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `⌁ Embedded`
+
+Experimenting with hardware and connected systems.
+
+* ESP32
+* Arduino
+* Sensors
+* Serial communication
+* IoT dashboards
+* Wireless telemetry
+
+</td>
+
+<td width="50%" valign="top">
+
+### `⌁ Future`
+
+Long-term interests.
+
+* Aerospace software
+* Avionics
+* Flight systems
+* Robotics
+* Distributed systems
+* Space-grade computing
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `04 · GITHUB ACTIVITY`
+
+<br/>
+
+<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true&background=0B0F14&ring=8B5CF6&fire=A78BFA&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B" />
+
+<img width="38%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&background=0B0F14&langs_count=10&hide=css,html,php,lua,blade,hack,javascript,go" />
+
+<br/><br/>
+
+<a href="https://github.com/Ye-Shaiyoe?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20REPOSITORIES-0b0f14?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f14"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `05 · PHILOSOPHY`
+
+<br/>
+
+```text
+Build it.
+Break it.
+Understand it.
+Rebuild it.
 ```
 
 <br/>
 
-<div align="center">
-
-<!-- Systems -->
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,zig,wasm,bash&theme=dark" title="Systems & Low-Level" />
-
-`システム & 低レベル`
+<sub>
+Software is not magic. It's a system waiting to be understood.
+</sub>
 
 <br/><br/>
 
-<!-- Web -->
-<img src="https://skillicons.dev/icons?i=ts,go,nodejs,laravel,supabase&theme=dark" title="Web & Backend" />
-
-`ウェブ & バックエンド`
+<img src="https://img.shields.io/badge/BUILT%20WITH-LINUX%20%2B%20COFFEE-0b0f14?style=for-the-badge&logo=linux&logoColor=94a3b8" />
 
 <br/><br/>
 
-<!-- Hardware -->
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" title="Embedded" />
-&nbsp;
-<img src="https://img.shields.io/badge/ESP32C5-マイコン-a6e3a1?style=flat-square&logo=espressif&logoColor=black&labelColor=1a0033" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,45:1e293b,75:111827,100:0b0f14&height=130&section=footer" />
 
-`組み込み & ハードウェア`
-
-<br/><br/>
-
-<!-- Env -->
-<img src="https://skillicons.dev/icons?i=linux,git,vim&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Gentoo-Linux-cba6f7?style=flat-square&logo=gentoo&logoColor=white&labelColor=1a0033" />
-&nbsp;
-<img src="https://img.shields.io/badge/Hyprland-WM-89b4fa?style=flat-square&logo=wayland&logoColor=white&labelColor=1a0033" />
-
-`環境`
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ye-Shaiyoe&theme=tokyonight&hide_border=true&background=0d0011&ring=cba6f7&fire=f38ba8&currStreakLabel=e8c3f7" width="47%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ye-Shaiyoe&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d0011&hide=css,html,php,lua,blade,hack,javascript,go" width="32%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2d1b69,60:1a0033,100:0d0011&height=100&section=footer&reversal=true" />
 </div>
