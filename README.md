@@ -68,8 +68,6 @@
 </tr>
 </table>
 
-<br/>
-
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postgres,mysql,vim,nginx&theme=dark" />
 
 <br/><br/>
