@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,bash,zig,wasm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust&theme=dark" />
 
 <br/><br/>
 
